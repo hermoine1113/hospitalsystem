@@ -1,0 +1,5 @@
+in\kmit\hospital\Main.class
+in\kmit\hospital\model\Patient.class
+in\kmit\hospital\service\AppointmentService.class
+in\kmit\hospital\model\Doctor.class
+in\kmit\hospital\model\Appointment.class
